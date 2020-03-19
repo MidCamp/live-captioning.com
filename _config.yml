@@ -21,18 +21,17 @@
 title: Live Captioning Initiative
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Our goal is not to replace CART (Communication Access Real-time Translation) or Interpreters.
-  Instead, we are aiming to provide a reliable, no-cost tool to make events more accessible where there would otherwise be nothing. 
-  Unfortunately, there isn't always enough budget to meet the needs of all your attendees. 
-  This project is an effort to make events more accessible in the face of the financial barrier.
+  A Free, Open Source Live-Captioning Solution
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.live-captioning.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-
+locale: "en-us"
+logo: "/assets/images/lc-logo.png"
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 

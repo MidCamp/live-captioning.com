@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+
+.site-logo-img {
+    width: 75px;
+    height: 75px;
+    border: 5px solid;
+    border-radius: 0;
+    @media (min-width: 64em) {
+	    width: 150px;
+	    /* height: 150px; */
+	    border-radius: 0;
+	}
+	@media (min-width: 48em) {
+	    width: 112.5px;
+	    /* height: 112.5px; */
+	    border-radius: 0;
+	}
+}

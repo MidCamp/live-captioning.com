@@ -1,0 +1,56 @@
+1
+00:00:00,1 --> 00:00:14,376
+hello I am going to be testing the live captioning initiatives open source live captioning solution
+
+2
+00:00:14,376 --> 00:00:20,345
+ in this test my goal is to
+
+3
+00:00:20,345 --> 00:00:37,664
+ have some sort of substantial transcript that I can post to the site in order to provide a structure for how we will
+
+4
+00:00:37,664 --> 00:00:58,362
+ format any future transcripts posted on the site in order to have a substantial amount of content I am going to be reading the declaration of independence of the United States of America
+
+5
+00:00:58,362 --> 00:01:02,984
+ so without further ado
+
+6
+00:01:02,984 --> 00:01:04,902
+ here it is
+
+7
+00:01:04,902 --> 00:01:53,511
+ in Congress July 4th 1776 the unanimous Declaration of the Thirteen United States of America when in the course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the Earth the separate and equal station to which the laws of nature and of Nature's God entitle them a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation
+
+8
+00:01:53,511 --> 00:02:52,143
+ we hold these truths to be self-evident that all men are created equal that they are endowed by their creator with certain inalienable rights among these are life liberty and the pursuit of happiness that to secure these rights governments are instituted among men deriving their just powers from the consent of the governed that wherever any form of government becomes destructive to these ends it is the right of the people to alter or abolish it and to Institute a new government laying its foundation on such principles and organizing its powers in such form as to them shall seem most likely to effect their safety and happiness
+
+9
+00:02:52,143 --> 00:03:20,335
+ Prudence indeed will dictate that governments long established should not be changed for light and transient causes and accordingly all experience hath shewn that mankind are more disposed to suffer while Evils are sufferable than to right themselves by abolishing the forms to which they are accustomed
+
+10
+00:03:20,335 --> 00:03:50,308
+ but when a long train of abuses and usurpations pursuing invariably the same object in Vince's a design to reduce them to under absolute despotism it is in there right there duty to throw off such government and to provide new guards for their future security
+
+11
+00:03:50,308 --> 00:03:55,553
+ such has been the patient sufferance of these colonies
+
+12
+00:03:55,553 --> 00:04:23,663
+ and such is now the necessity which constrains them to alter their former systems of government the history of the present King of Great Britain is a history of repeated injuries and usurpations all having in direct object the establishment of an absolute tyranny over these states to prove this let facts be submitted to a candid world
+
+13
+00:04:23,663 --> 00:04:33,296
+ and that will conclude my reading of the Declaration of Independence
+
+14
+00:04:33,296 --> 00:04:36,468
+ the end
+
