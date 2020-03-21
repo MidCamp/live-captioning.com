@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.live-captioning.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+google_analytics: UA-161532470-1
 locale: "en-us"
 logo: "/assets/images/lc-logo.png"
 # Build settings
